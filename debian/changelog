@@ -1,3 +1,10 @@
+nymea-networkmanager (0.5.7) xenial; urgency=medium
+
+  [ Michael Zanetti ]
+  * Make it build on hirsute
+
+ -- Jenkins <jenkins@nymea.io>  Fri, 14 May 2021 01:01:46 +0200
+
 nymea-networkmanager (0.5.6) xenial; urgency=medium
 
   [ Michael Zanetti ]
