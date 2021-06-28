@@ -1,4 +1,4 @@
-# nymea-networkmanager
+# bt-networkmanager
 
 This daemon allows to set up the wireless network using a bluetooth LE connection. The daemon will automatically start a bluetooth low energy server 
 if the system is currently not connected to any network. Once the system is connected, the daemon will shutdown the bluetooth server. 
